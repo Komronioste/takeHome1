@@ -1,0 +1,14 @@
+takeHomeProject\steps\ProjectSteps.class
+takeHomeProject\utils\Constants.class
+takeHomeProject\pages\HomePageElements.class
+takeHomeProject\testbase\PageInitializer.class
+takeHomeProject\utils\ConfigsReader.class
+takeHomeProject\pages\HtmlCssPageElements.class
+takeHomeProject\pages\MultimodalAccessPageElements.class
+takeHomeProject\utils\CommonMethods.class
+takeHomeProject\pages\WebDesignPageElements.class
+takeHomeProject\pages\WebOfDevicesPageElements.class
+takeHomeProject\runners\TestRunner.class
+takeHomeProject\steps\Hooks.class
+takeHomeProject\testbase\BaseClass.class
+takeHomeProject\pages\StandardsPageElements.class
